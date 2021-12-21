@@ -1,6 +1,6 @@
 # hello-world
 Beginner git and GitHub tutorial
 
-My name is Connor Norris
-I attend school at the University of Wisconin Parkside \n
-I am currently seeking a CS degree
+My name is Connor Norris<br/>
+I attend school at the University of Wisconin Parkside<br/>
+I am currently seeking a CS degree<br/>
